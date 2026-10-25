@@ -11,5 +11,8 @@
         { "name": "PandarianCoder"}
     ],
     "esmodules": ["module/goue.mjs"],
-    "styles": ["styles/goue.css"]
+    "styles": ["styles/goue.css"],
+    "links": [
+        "https://github.com/PandarianCoder/goue"
+    ]
 }
