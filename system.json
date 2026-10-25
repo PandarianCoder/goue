@@ -1,0 +1,15 @@
+{
+    "id": "goue",
+    "title": "Ghost Ops: Ultimate Edition",
+    "description": "Game system for Ghost Ops Ultimate Edition, built on the Ghost Engine.",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "14",
+        "verified": "14.369"
+    },
+    "authors": [
+        { "name": "PandarianCoder"}
+    ],
+    "esmodules": ["module/goue.mjs"],
+    "styles": ["styles/goue.css"]
+}
